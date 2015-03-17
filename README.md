@@ -397,6 +397,7 @@ Optional:
 [Slides](https://docs.google.com/presentation/d/1wv6r2p7lXKepoeX4WIvkqBMThELkI5irQYYtZWfyX70/pub?slide=id.g3aa5c6c7c_05) on NLP
 
 The entire class will be spent working together on the LSI Workshop in the IPython Notebook below, with occasional references to the guest lecture slides above.
+
 [LSI Workshop](code/L16)
 
 ### Class 17: Web Scraping and Data Retrieval Methods
